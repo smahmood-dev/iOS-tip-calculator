@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		221A9FCA27A7E32900ACB1C8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221A9FC927A7E32900ACB1C8 /* SettingsViewController.swift */; };
 		228E249E2794AFB6008A96B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228E249D2794AFB6008A96B0 /* AppDelegate.swift */; };
 		228E24A02794AFB6008A96B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228E249F2794AFB6008A96B0 /* SceneDelegate.swift */; };
 		228E24A22794AFB6008A96B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228E24A12794AFB6008A96B0 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		221A9FC927A7E32900ACB1C8 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		228E249A2794AFB6008A96B0 /* Codepath iOS Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Codepath iOS Prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		228E249D2794AFB6008A96B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		228E249F2794AFB6008A96B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				228E24A62794AFB8008A96B0 /* Assets.xcassets */,
 				228E24A82794AFB8008A96B0 /* LaunchScreen.storyboard */,
 				228E24AB2794AFB8008A96B0 /* Info.plist */,
+				221A9FC927A7E32900ACB1C8 /* SettingsViewController.swift */,
 			);
 			path = "Codepath iOS Prework";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				228E24A22794AFB6008A96B0 /* ViewController.swift in Sources */,
 				228E249E2794AFB6008A96B0 /* AppDelegate.swift in Sources */,
 				228E24A02794AFB6008A96B0 /* SceneDelegate.swift in Sources */,
+				221A9FCA27A7E32900ACB1C8 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,6 +443,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3WLJ7HTT86;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Codepath iOS Prework/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -466,6 +471,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3WLJ7HTT86;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Codepath iOS Prework/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
